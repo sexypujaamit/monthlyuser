@@ -1,1 +1,10 @@
-
+{
+  "app_1": {
+    "is_enabled": true,
+    "firebase_url": "h",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
+  }
+}
