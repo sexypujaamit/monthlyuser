@@ -1,7 +1,7 @@
 {
   "app_1": {
     "is_enabled": true,
-    "firebase_url": "h",
+    "firebase_url": "https://server-001-4cec4-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
     "cloud_name": "",
     "cloudinary_preset": "",
