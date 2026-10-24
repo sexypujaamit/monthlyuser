@@ -3,5 +3,9 @@
     "is_enabled": true,
     "firebase_url": "https://babu-1-2b33e-default-rtdb.firebaseio.com/",
     "expiry_date": "1day"
+  },
+  "app_2": {
+    "is_enabled": true,
+    "firebase_url": "https://babu-2-b8ffd-default-rtdb.firebaseio.com/"
   }
 }
