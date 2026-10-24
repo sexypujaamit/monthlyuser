@@ -31,5 +31,9 @@
   "app_8": {
     "is_enabled": true,
     "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/"
+  },
+  "app_9": {
+    "is_enabled": true,
+    "firebase_url": "https://babu-9-default-rtdb.firebaseio.com/"
   }
 }
