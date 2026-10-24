@@ -5,6 +5,7 @@
     "script_url": "https://script.google.com/macros/s/exec",
     "cloud_name": "",
     "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloudinary_folder": "",
+    "expiry_date": "1day"
   }
 }
