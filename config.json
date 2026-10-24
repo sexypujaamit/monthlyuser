@@ -15,5 +15,9 @@
   "app_4": {
     "is_enabled": true,
     "firebase_url": "https://babu-4-4e5d0-default-rtdb.firebaseio.com/"
+  },
+  "app_5": {
+    "is_enabled": true,
+    "firebase_url": "https://babu-5-636fa-default-rtdb.firebaseio.com/"
   }
 }
