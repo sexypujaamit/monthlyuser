@@ -43,5 +43,9 @@
   "app_11": {
     "is_enabled": true,
     "firebase_url": "https://babu-11-default-rtdb.firebaseio.com/"
+  },
+  "app_12": {
+    "is_enabled": true,
+    "firebase_url": "https://babu-13-default-rtdb.firebaseio.com/"
   }
 }
