@@ -113,7 +113,7 @@
   },
   "app_15": {
     "is_enabled": true,
-    "firebase_url": "https://babu-16-default-rtdb.firebaseio.com/",
+    "firebase_url": "https://server-001-4cec4-default-rtdb.firebaseio.com",
     "script_url": "",
     "cloud_name": "",
     "cloudinary_preset": "",
