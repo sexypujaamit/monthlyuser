@@ -2,62 +2,129 @@
   "app_1": {
     "is_enabled": true,
     "firebase_url": "https://babu-1-2b33e-default-rtdb.firebaseio.com/",
-    "expiry_date": "1day"
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_2": {
     "is_enabled": true,
-    "firebase_url": "https://babu-2-b8ffd-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-2-b8ffd-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_3": {
     "is_enabled": true,
-    "firebase_url": "https://babu-3-ec2dd-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-3-ec2dd-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_4": {
     "is_enabled": true,
-    "firebase_url": "https://babu-4-4e5d0-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-4-4e5d0-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_5": {
     "is_enabled": true,
-    "firebase_url": "https://babu-5-636fa-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-5-636fa-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_6": {
     "is_enabled": true,
-    "firebase_url": "https://babu-6-default-rtdb.firebaseio.com"
+    "firebase_url": "https://babu-6-default-rtdb.firebaseio.com",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_7": {
     "is_enabled": true,
-    "firebase_url": "https://babu-7-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-7-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_8": {
     "is_enabled": true,
-    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_9": {
     "is_enabled": true,
-    "firebase_url": "https://babu-12-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-12-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_10": {
     "is_enabled": true,
-    "firebase_url": "https://babu-10-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-10-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_11": {
     "is_enabled": true,
-    "firebase_url": "https://babu-11-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-11-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_12": {
     "is_enabled": true,
-    "firebase_url": "https://babu-13-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-13-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_13": {
     "is_enabled": true,
-    "firebase_url": "https://babu-14-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-14-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_14": {
     "is_enabled": true,
-    "firebase_url": "https://babu-15-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-15-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_15": {
     "is_enabled": true,
-    "firebase_url": "https://babu-16-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-16-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
+  },
+  "test": {
+    "is_enabled": true,
+    "firebase_url": "https://server-001-4cec4-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
