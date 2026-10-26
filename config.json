@@ -126,5 +126,9 @@
     "cloud_name": "",
     "cloudinary_preset": "",
     "cloudinary_folder": ""
+  },
+  "app_16": {
+    "is_enabled": true,
+    "firebase_url": "https://babu-17-default-rtdb.firebaseio.com/"
   }
 }
