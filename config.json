@@ -57,11 +57,7 @@
   },
   "app_8": {
     "is_enabled": true,
-    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/",
-    "script_url": "",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/"
   },
   "app_9": {
     "is_enabled": true,
