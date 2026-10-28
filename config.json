@@ -57,7 +57,11 @@
   },
   "app_8": {
     "is_enabled": true,
-    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-8-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_9": {
     "is_enabled": true,
@@ -117,7 +121,7 @@
   },
   "test": {
     "is_enabled": true,
-    "firebase_url": "https://server-001-4cec4-default-rtdb.firebaseio.com",
+    "firebase_url": "https://babu-1-2b33e-default-rtdb.firebaseio.com/",
     "script_url": "https://script.google.com/macros/s/exec",
     "cloud_name": "",
     "cloudinary_preset": "",
@@ -125,10 +129,18 @@
   },
   "app_16": {
     "is_enabled": true,
-    "firebase_url": "https://babu-17-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-17-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_17": {
     "is_enabled": true,
-    "firebase_url": "https://babu-18-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://babu-18-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
