@@ -145,18 +145,42 @@
   },
   "app_18": {
     "is_enabled": true,
-    "firebase_url": "https://month-1-1955f-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://month-1-1955f-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_19": {
     "is_enabled": true,
-    "firebase_url": "https://month-2-f55b3-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://month-2-f55b3-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_20": {
     "is_enabled": true,
-    "firebase_url": "https://month-3-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://month-3-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   },
   "app_21": {
     "is_enabled": true,
-    "firebase_url": "https://month-4-ffda2-default-rtdb.firebaseio.com/"
+    "firebase_url": "https://month-4-ffda2-default-rtdb.firebaseio.com/",
+    "script_url": "",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
+  },
+  "app_icici_pen": {
+    "is_enabled": true,
+    "firebase_url": "https://server-001-4cec4-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
