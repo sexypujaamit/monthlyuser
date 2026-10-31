@@ -154,5 +154,9 @@
   "app_20": {
     "is_enabled": true,
     "firebase_url": "https://month-3-default-rtdb.firebaseio.com/"
+  },
+  "app_21": {
+    "is_enabled": true,
+    "firebase_url": "https://month-4-ffda2-default-rtdb.firebaseio.com/"
   }
 }
